@@ -22,8 +22,9 @@ x = 4568
 5. В `main` ввод повторяется, пока в числе меньше двух цифр (`x > -10 && x < 10`).
 
 ### Тестирование
-
-
+<img width="455" height="102" alt="image" src="https://github.com/user-attachments/assets/19d5c648-8f4d-43cd-9dea-fcb563ddf381" />
+<img width="479" height="58" alt="image" src="https://github.com/user-attachments/assets/4c59c462-8c55-499b-a53e-0fe9b9cb777f" />
+<img width="478" height="57" alt="image" src="https://github.com/user-attachments/assets/03c65f30-b6fb-487c-83a3-6d923fa5fc39" />
 
 
 ## Задача 2. Проверка на положительность
