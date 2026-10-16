@@ -1,1 +1,0 @@
-# lab1cpp_Kinev
