@@ -46,8 +46,10 @@ x = -5 - результат: false
 2. Возвращаем результат выражения `x > 0`: `true` для положительных чисел, `false` для нуля и отрицательных.
 
 ### Тестирование
-
-
+<img width="320" height="53" alt="image" src="https://github.com/user-attachments/assets/b079edd0-9163-431e-8fec-313af0757410" />
+<img width="346" height="61" alt="image" src="https://github.com/user-attachments/assets/c4b5f8a1-80a9-4f90-8d88-db6c89aec482" />
+<img width="334" height="63" alt="image" src="https://github.com/user-attachments/assets/7ede4def-d540-4145-aeaa-4ee574163f59" />
+<img width="707" height="71" alt="image" src="https://github.com/user-attachments/assets/66963d47-3596-4bf4-a670-cd54c869c9cd" />
 
 
 ## Задача 3. Большая буква
@@ -70,8 +72,9 @@ x = 'q' - результат: false
 3. В `main` символ читается функцией `inputChar`: она принимает ровно один символ и просит повторить ввод, если введено что-то другое.
 
 ### Тестирование
-
-
+<img width="430" height="70" alt="image" src="https://github.com/user-attachments/assets/85815220-c2cc-49ee-b46d-1b93cfc261f6" />
+<img width="431" height="59" alt="image" src="https://github.com/user-attachments/assets/0cb02a6a-e8b9-4088-b79d-331a465c27bf" />
+<img width="429" height="65" alt="image" src="https://github.com/user-attachments/assets/0b9ff650-8969-4dfa-8026-c911a7c372ab" />
 
 
 ## Задача 4. Проверка делителей
@@ -94,6 +97,9 @@ a = 2, b = 15 - результат: false
 3. Если хотя бы одно условие выполняется - `true`, иначе `false`.
 
 ### Тестирование
+<img width="449" height="83" alt="image" src="https://github.com/user-attachments/assets/7d5f3ac1-c569-401d-90ec-11fc5064e966" />
+<img width="491" height="88" alt="image" src="https://github.com/user-attachments/assets/51a7e00a-579f-4906-9a54-08282f8f6f79" />
+<img width="465" height="85" alt="image" src="https://github.com/user-attachments/assets/f696934c-af9a-4d00-972d-c82c87e1e980" />
 
 
 
@@ -118,8 +124,8 @@ a = 2, b = 15 - результат: false
 3. После пятого числа выводим итог.
 
 ### Тестирование
-
-
+<img width="455" height="273" alt="image" src="https://github.com/user-attachments/assets/ab04df6a-69d8-4007-8eb5-36d172cb85e2" />
+<img width="734" height="150" alt="image" src="https://github.com/user-attachments/assets/286a60ae-116e-407f-977d-8e59c281ca50" />
 
 
 # Задание 2. Условия
@@ -144,6 +150,8 @@ x = 8, y = 2 - результат: 4
 3. Иначе возвращаем `static_cast<double>(x) / y`.
 
 ### Тестирование
+<img width="419" height="94" alt="image" src="https://github.com/user-attachments/assets/c916a0ba-7f48-412b-b9b0-49fb2c062f32" />
+<img width="257" height="100" alt="image" src="https://github.com/user-attachments/assets/04b4dff0-8a6d-45ac-9ddb-95ca80054532" />
 
 
 
@@ -172,6 +180,9 @@ x = 4, y = 4 - результат: "4 == 4"
 4. Собираем строку из `std::to_string(x)`, знака и `std::to_string(y)`, разделяя их пробелами.
 
 ### Тестирование
+<img width="301" height="94" alt="image" src="https://github.com/user-attachments/assets/a8c30a2a-ab72-47c8-b7cd-3daf82b7916b" />
+<img width="306" height="84" alt="image" src="https://github.com/user-attachments/assets/1a986a69-4551-4022-bc87-7e81154ecb74" />
+<img width="291" height="81" alt="image" src="https://github.com/user-attachments/assets/09f6281c-e252-4b96-8aaf-dbf8b01364f4" />
 
 
 
@@ -197,6 +208,8 @@ x = 8, y = -1, z = 4 - результат: false
 4. Условия объединены через `||`. Если ни одно условие не выполнилось - `false`.
 
 ### Тестирование
+<img width="449" height="114" alt="image" src="https://github.com/user-attachments/assets/c2e0bfd9-452e-43f1-82a0-5c8fb51091cd" />
+<img width="451" height="108" alt="image" src="https://github.com/user-attachments/assets/826047a0-77c7-43ba-b819-10ca6aa97349" />
 
 
 
@@ -226,6 +239,10 @@ x = 8, y = -1, z = 4 - результат: false
 6. В `main` ввод повторяется, пока возраст отрицательный.
 
 ### Тестирование
+<img width="247" height="64" alt="image" src="https://github.com/user-attachments/assets/3931e0be-de7f-4d82-8ce0-fbe167c75e02" />
+<img width="277" height="46" alt="image" src="https://github.com/user-attachments/assets/0712b59d-a21e-438d-91d8-ec4c39711620" />
+<img width="244" height="54" alt="image" src="https://github.com/user-attachments/assets/32784f56-453d-4d3a-8574-36003e806b6a" />
+<img width="240" height="61" alt="image" src="https://github.com/user-attachments/assets/c1759938-262f-4713-bb95-da4fcbd6fd5f" />
 
 
 
@@ -246,6 +263,8 @@ x = 8, y = -1, z = 4 - результат: false
 3. Для чисел вне диапазона - `default`.
 
 ### Тестирование
+<img width="419" height="135" alt="image" src="https://github.com/user-attachments/assets/32ef60e5-6491-4053-ae1e-e2182ae46481" />
+<img width="428" height="75" alt="image" src="https://github.com/user-attachments/assets/a78f4d85-e7da-41e3-bf4c-59827d13fabc" />
 
 
 
@@ -271,6 +290,8 @@ x = 5 - "5 4 3 2 1 0"
 5. В `main` ввод повторяется, пока число не окажется в диапазоне от 0 до 1000.
 
 ### Тестирование
+<img width="366" height="58" alt="image" src="https://github.com/user-attachments/assets/141549dc-15ef-4fa1-8dd3-0d4f85fe8a7c" />
+<img width="624" height="65" alt="image" src="https://github.com/user-attachments/assets/0df04e7b-26bb-40e6-8147-951405177726" />
 
 
 
@@ -293,6 +314,9 @@ x = 2, y = 5 - результат: 32
 4. В `main` ввод показателя повторяется, пока он отрицательный, а перед вызовом функции проверяется, что результат помещается в `int` (сравнение `std::pow(x, y)` с `2147483647`).
 
 ### Тестирование
+<img width="491" height="82" alt="image" src="https://github.com/user-attachments/assets/a9c8d7d8-9944-4382-9053-1d934e25d62a" />
+<img width="631" height="69" alt="image" src="https://github.com/user-attachments/assets/fb0e448c-81b5-462c-b91b-af6b5c3aeb43" />
+<img width="663" height="109" alt="image" src="https://github.com/user-attachments/assets/f356d561-7a24-4847-bb87-9f632fe52f96" />
 
 
 
@@ -316,7 +340,9 @@ x = 2, y = 5 - результат: 32
 5. Если цикл завершился без отличий - возвращаем `true`.
 
 ### Тестирование
-
+<img width="358" height="72" alt="image" src="https://github.com/user-attachments/assets/b6d6f615-59b7-46b3-987a-fd28251f2840" />
+<img width="345" height="62" alt="image" src="https://github.com/user-attachments/assets/1cf62293-17f8-42df-b060-400a8839adc7" />
+<img width="376" height="65" alt="image" src="https://github.com/user-attachments/assets/74d58467-dd32-4b89-92d8-9c0cc5eb079c" />
 
 
 
@@ -335,6 +361,9 @@ x = 2, y = 5 - результат: 32
 4. В `main` ввод повторяется, пока высота не окажется в диапазоне от 1 до 100.
 
 ### Тестирование
+<img width="565" height="120" alt="image" src="https://github.com/user-attachments/assets/24aed8e8-3542-4ffd-aeb6-919e4e6b57fc" />
+<img width="581" height="163" alt="image" src="https://github.com/user-attachments/assets/cb57246a-09f0-4041-a5a7-d043eb185532" />
+<img width="622" height="69" alt="image" src="https://github.com/user-attachments/assets/1ff47abb-3eef-49ca-8722-0d759ca15998" />
 
 
 
@@ -359,6 +388,8 @@ x = 2, y = 5 - результат: 32
 5. Выводим сообщение «Вы угадали!» и количество попыток.
 
 ### Тестирование
+<img width="501" height="390" alt="image" src="https://github.com/user-attachments/assets/aab1c260-80da-4642-9694-b208c0b0251e" />
+<img width="545" height="318" alt="image" src="https://github.com/user-attachments/assets/36030304-8b8c-4f5c-b835-436afc165ac1" />
 
 
 
@@ -384,6 +415,8 @@ arr = [1, 2, 3, 4, 2, 2, 5], x = 2 - результат: 5
 3. Если совпадений нет - возвращаем `-1`.
 
 ### Тестирование
+<img width="504" height="263" alt="image" src="https://github.com/user-attachments/assets/90e3fa8c-0949-42fc-afe5-f8493389a5d8" />
+<img width="613" height="246" alt="image" src="https://github.com/user-attachments/assets/3091b73b-13c0-4342-ae5f-b3d068fe8d4f" />
 
 
 
@@ -409,6 +442,8 @@ arr = [1, 2, 3, 4, 5], x = 9, pos = 3
 6. Возвращаем указатель на новый массив.
 
 ### Тестирование
+<img width="475" height="189" alt="image" src="https://github.com/user-attachments/assets/7fc50824-25ba-4eb6-b92e-31d0899ae208" />
+<img width="621" height="265" alt="image" src="https://github.com/user-attachments/assets/9f30d495-968e-47e7-957e-dba78519df81" />
 
 
 
@@ -430,6 +465,8 @@ arr = [1, 2, 3, 4, 5] - arr = [5, 4, 3, 2, 1]
 3. Функция возвращает `void`, изменения происходят прямо в исходном массиве.
 
 ### Тестирование
+<img width="508" height="191" alt="image" src="https://github.com/user-attachments/assets/397dff1a-0ca9-461d-b735-57ed214d7254" />
+<img width="501" height="207" alt="image" src="https://github.com/user-attachments/assets/779c1556-1eb4-432a-8da3-f4da6b8b2d7d" />
 
 
 
@@ -452,6 +489,8 @@ arr1 = [1, 2, 3], arr2 = [7, 8, 9]
 4. Возвращаем указатель на новый массив.
 
 ### Тестирование
+<img width="531" height="407" alt="image" src="https://github.com/user-attachments/assets/07358297-9dd4-4deb-95a3-373a1c417517" />
+<img width="541" height="321" alt="image" src="https://github.com/user-attachments/assets/bc4fb848-d89d-49a1-a103-c3a02765c03e" />
 
 
 
@@ -475,5 +514,7 @@ arr = [1, 2, -3, 4, -2, 2, -5]
 4. Возвращаем указатель на новый массив.
 
 ### Тестирование
+<img width="541" height="240" alt="image" src="https://github.com/user-attachments/assets/a38859c9-7822-4ce6-a13c-03342cc02638" />
+<img width="612" height="64" alt="image" src="https://github.com/user-attachments/assets/9ce60cc5-d082-4327-b38b-9e39b31114dd" />
 
 
